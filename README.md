@@ -7,3 +7,11 @@ uma paleta vibrante, para combinar com o aspecto gameficado da aplicação e cha
 - logo <br>
 como a parte de design não é minha area de atuação a logo a seguir foi feita utilizando de ferramentas de inteligencia artifical (Chat Gpt).<br>
 <img src="./docs/logo.png" width="300px">
+
+## Detalhes tecnicos
+### Diagramas do banco de dados
+#### Modelo MR
+<img src="./docs/MR.png" width="500px">
+
+#### Modelo MER
+<img src="./docs/MER.png" width="500px">
